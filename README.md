@@ -1,4 +1,4 @@
-# AI / Machine Learning + Computer Vision Roadmap
+ # AI / Machine Learning + Computer Vision Roadmap
 
 ![Image](https://images.openai.com/static-rsc-4/NSwkFHZxDVZWUJ7sq4Wv4HqIt-HINfO6Xv3eVYog79rfNf5VJOphdXJ1q8QN6JFXerWAYPQCxl5zTFWsNw0YBUw6RIM6AK0n7NyWiCj3Q9JWSJmunepMatAdPWt83aMz9I4d87TRZY9V6YefXlPNPIEXlx26dInVoTRMuLcl4ZTb8z0WIF5ZAMCVm1th5uh_?purpose=fullsize)
 
