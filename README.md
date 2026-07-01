@@ -1,6 +1,5 @@
     # AI / Machine Learning + Computer Vision Roadmap
 
-![Image](https://images.openai.com/static-rsc-4/NSwkFHZxDVZWUJ7sq4Wv4HqIt-HINfO6Xv3eVYog79rfNf5VJOphdXJ1q8QN6JFXerWAYPQCxl5zTFWsNw0YBUw6RIM6AK0n7NyWiCj3Q9JWSJmunepMatAdPWt83aMz9I4d87TRZY9V6YefXlPNPIEXlx26dInVoTRMuLcl4ZTb8z0WIF5ZAMCVm1th5uh_?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/Dv9M7elmMzZcgLQ1VoOITTzD1tf8RSynWWxMVPNV0NjrgbP2Otct95exkxMTPF0Y-FyrmPvrYtzHHLvCH_qL171Q9f4CCj-5FRuVAsAR6enDdpW4vtLpZQlvTk2v90x9tUalL8BkMPPAZGh_rQkhL0inQvVb3PEeOrczVgZzILEEhzb319PRmYvF077uEf6L?purpose=fullsize)
 
